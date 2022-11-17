@@ -8,9 +8,7 @@
 # A와 B가 같은 경우에는 '=='를 출력한다.
 
 
-integer = input()
-number = integer.split()
-
+number = input().split()
 if int(number[0]) > int(number[1]):
     print('>')
 elif int(number[0]) < int(number[1]):
