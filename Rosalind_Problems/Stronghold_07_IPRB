@@ -1,0 +1,3 @@
+s='AUG'
+
+print(s)

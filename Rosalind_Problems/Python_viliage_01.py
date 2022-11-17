@@ -1,0 +1,2 @@
+#installing python
+import this
